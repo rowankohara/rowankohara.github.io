@@ -3,13 +3,17 @@ project:
   render:
     - "*.qmd"
 
+execute:
+  freeze: auto
+  
 website:
   title: "Rowan K. O'Hara"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Projects
 
 format:
   html:
