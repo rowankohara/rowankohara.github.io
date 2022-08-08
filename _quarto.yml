@@ -1,5 +1,7 @@
 project:
   type: website
+  render:
+    - "*.qmd"
 
 website:
   title: "rowankohara.github.io"
@@ -11,7 +13,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
 
