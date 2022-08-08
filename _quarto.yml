@@ -3,6 +3,9 @@ project:
   render:
     - "*.qmd"
 
+execute:
+  freeze: auto
+  
 website:
   title: "Rowan K. O'Hara"
   navbar:
