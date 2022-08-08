@@ -2,10 +2,16 @@
 title: "Projects"
 ---
 
-#### Genotyping the TERT-MNS16A minisatellite repeat based on short-read whole-genome sequencing data using machine learning.
+# NIH Summer Poster Day 2022
 
-![](img/ohara_NIH_poster.png)
+![](img/ohara_NIH_poster.png){width="1700"}
 
-#### Examination of sex differences in the association of interpersonal violence and symptoms of depression and anxiety among college students.
+# Women's Health Research Day 2022
 
-![](img/WHRD-Ohara_2022.png)
+![](img/WHRD-Ohara_2022.png){width="1700"}
+
+# HGEN 612
+
+![](img/Predicting%20Heart%20Disease.png){width="1400"}
+
+\<button type="button" class="btn btn-danger" href="https://rowankohara.shinyapps.io/ohara-project2/"\>shinyapps.io\</button\>
