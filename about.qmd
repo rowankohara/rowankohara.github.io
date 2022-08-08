@@ -2,10 +2,10 @@
 title: "Projects"
 ---
 
-## Genotyping the TERT-MNS16A minisatellite repeat based on short-read whole-genome sequencing data using machine learning.
+#### Genotyping the TERT-MNS16A minisatellite repeat based on short-read whole-genome sequencing data using machine learning.
 
 ![](img/ohara_NIH_poster.png)
 
-## Examination of sex differences in the association of interpersonal violence and symptoms of depression and anxiety among college students.
+#### Examination of sex differences in the association of interpersonal violence and symptoms of depression and anxiety among college students.
 
 ![](img/WHRD-Ohara_2022.png)
