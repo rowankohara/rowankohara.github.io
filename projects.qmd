@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+# NIH Summer Poster Day 2022
+
+![](img/ohara_NIH_poster.png)
+
+# Women's Health Research Day 2022
+
+![](img/WHRD-Ohara_2022.png)
+
+# HGEN 612
+
+![](img/Predicting%20Heart%20Disease.png){width="1400"}
+
+``` html
+<button type="button" class="btn btn-danger" href="https://rowankohara.shinyapps.io/ohara-project2/">shinyapps.io</button>
+```
