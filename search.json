@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Projects",
     "section": "",
-    "text": "Examination of sex differences in the association of interpersonal violence and symptoms of depression and anxiety among college students."
+    "text": "Women’s Health Research Day 2022\n\n\n\nHGEN 612\n\n<button type=“button” class=“btn btn-danger” href=“https://rowankohara.shinyapps.io/ohara-project2/”>shinyapps.io</button>"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "Welcome",
     "section": "",
     "text": "Hello, my name is Rowan K. O’Hara. I am a recent graduate from Virginia Commonwealth University (VCU) with Bachelors degrees in Bioinformatics and Psychology. Currently, I am a Masters student studing Bioinformatics at VCU and will graduate May 2023. This past summer I worked as an intern at the National Cancer Institute at the NIH as a part of the Graduate Data Science Summer Program. My work focused on cancer genetics and bioinformatics, particularly using machine learning to genotype the TERT MNS16A polymorphic minisatellite. I also work as a research associate at the POP-GEM Lab researching genetic and environmental factors that contribute to major depression."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Women’s Health Research Day 2022\n\n\n\nHGEN 612\n\n<button type=\"button\" class=\"btn btn-danger\" href=\"https://rowankohara.shinyapps.io/ohara-project2/\">shinyapps.io</button>"
   }
 ]
