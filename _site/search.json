@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Rowan K. O’Hara",
     "section": "",
-    "text": "Hello, my name is Rowan K. O’Hara. I am a recent graduate from Virginia Commonwealth University (VCU) with Bachelors degrees in Bioinformatics and Psychology. Currently, I am a Masters student studing Bioinformatics at VCU and will graduate May 2023. This past summer I worked as an intern at the National Cancer Institute at the NIH as a part of the Graduate Data Science Summer Program. My work focused on cancer genetics and bioinformatics, particularly using machine learning to genotype the TERT MNS16A polymorphic minisatellite. I also work as a research associate at the POP-GEM Lab researching genetic and environmental factors that contribute to major depression."
+    "text": "I am a first-generation college student passionate about research in biological data science. My research at the POP-GEM Lab focuses on examining cross-ancestry phenotypic and genetic associations with major depression and determine if interpersonal violence exposure is correlated with depression symptoms and if these associations vary by sex. This fall I will be applying to PhD programs in Bioinformatics or Human Genetics to progress my goal of becoming an academic researcher and professor."
   },
   {
     "objectID": "about.html",
@@ -25,6 +25,27 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Women’s Health Research Day 2022\n\n\n\nHGEN 612\n\n<button type=\"button\" class=\"btn btn-danger\" href=\"https://rowankohara.shinyapps.io/ohara-project2/\">shinyapps.io</button>"
+    "text": "Women’s Health Research Day\nAPRIL 2022\nVCU’s Women’s Health Research Day is a poster and seminar session that promotes research efforts focusing on women’s health at VCU. My project examined sex differences in the association of interpersonal violence and depression and anxiety symptoms.\n\n\n\nHGEN 612\nSPRING 2022\nHGEN 612 is a data science course offered through the human genetics department at Virginia Commonwealth University, focusing on reproducibility and fundamentals of machine learning.\n\nThis dashboard showcases the data from the Heart Failure Prediction Dataset on Kaggle. Using this data, the classification of heart disease (HeartDisease) is predicted.\n\nThis dashboard showcases the data from the Lake Tahoe Basin Jeffrey pine beetle outbreak from 2003. Using this data, the minimum linear distance to the nearest brood tree (DeadDist) is predicted."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Rowan K. O’Hara",
+    "section": "Experience",
+    "text": "Experience\nPOP-GEM Lab | Research Associate | Aug 2021 - Present\nNational Cancer Institute | Graduate Data Science Summer Intern | Jun 2022 - Aug 2022"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Rowan K. O’Hara",
+    "section": "Education",
+    "text": "Education\nVirginia Commonwealth University | Richmond, VA  M.S. in Bioinformatics | Jan 2021 - Present\nVirginia Commonwealth University | Richmond, VA  B.S. in Bioinformatics | Jul 2018 - May 2022\nVirginia Commonwealth University | Richmond, VA  B.S. in Psychology | Jul 2018 - May 2022"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Rowan K. O’Hara",
+    "section": "",
+    "text": "Experience\nPOP-GEM Lab | Research Associate | Aug 2021 - Present\nNational Cancer Institute | Graduate Data Science Summer Intern | Jun 2022 - Aug 2022"
   }
 ]
