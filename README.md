@@ -19,7 +19,7 @@ This site is built utilizing [Quarto](https://quarto.org/docs/websites/) and pub
   - Use the command `quarto preview` to render and preview your changes before pushing them.
   
 ## Helpful Resources
-This was my firrst attempt creating a website, and I knew nothing of Quarto or HTML. I found these resources to be helpful:
+This was my first attempt creating a website, and I knew nothing of Quarto or HTML. I found these resources to be helpful:
 - [Quarto documentation](https://quarto.org/docs/websites/)
 - [GitHub documentation](https://quarto.org/docs/publishing/github-pages.html)
 - [Thomas Mock's intro](https://rstudio-conf-2022.github.io/get-started-quarto/)
