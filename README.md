@@ -1,6 +1,6 @@
 # Rowan K. O'Hara
 
-Hello, I am a first-generation Master's student studying Bioinformatics at Virginia Commonwealth University.
+Hello, I am a first-generation college student pursuing a Master of Science in Bioinformatics at Virginia Commonwealth University.
 I built this site so that you may get to know a little about me and my research quickly.
 Please [reach out](mailto:oharark@vcu.edu) if you have any questions.
 
@@ -12,9 +12,9 @@ This site is built utilizing [Quarto](https://quarto.org/docs/websites/) and pub
    
    > Quarto handles most of html and JavaScript to actually build the website. You just need to build each page of your website by creating a `.qmd` file for it and tell Quarto to render them in the `_quarto.yml` file.
 
-- This should be connected to a GitHUb repository, and if you want this to be a personal site, use the `username.github.io` name.
-- Then, I used the `quarto publish gh-pages` command in the terminal tab in RStudio.
+- This should be connected to a GitHub repository, and if you want this to be a personal site, use `username.github.io` as the repository name.
 - I created a `gh-pages` branch to work on and set the Pages setting to "**Deploy from source branch**" to `gh-pages`.
+- Then, I used the `quarto publish gh-pages` command in the terminal tab in RStudio.
 - Done! Just continue editing, commiting the changes, and pushing to GitHub.
   - Use the command `quarto preview` to render and preview your changes before pushing them.
   
