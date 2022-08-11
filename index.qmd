@@ -19,7 +19,7 @@ about:
       href: mailto:oharark@vcu.edu
 ---
 
-I am a first-generation college student passionate about research in biological data science. My research at the POP-GEM Lab focuses on examining cross-ancestry phenotypic and genetic associations with major depression and determine if interpersonal violence exposure is correlated with depression symptoms and if these associations vary by sex. This fall I will be applying to PhD programs in Bioinformatics or Human Genetics to progress my goal of becoming an academic researcher and professor.
+I am a first-generation college student passionate about research in biological data science. My research at the POP-GEM Lab focuses on examining cross-ancestry phenotypic and genetic associations with major depression and determining if interpersonal violence exposure is correlated with depression symptoms and if these associations vary by sex. This fall I will be applying to PhD programs in Bioinformatics or Human Genetics to progress toward my goal of becoming an academic researcher and professor.
 
 ## Education
 
@@ -34,3 +34,8 @@ Virginia Commonwealth University \| Richmond, VA <br> ***B.S. in Psychology*** \
 POP-GEM Lab \| ***Research Associate*** \| Aug 2021 - Present
 
 National Cancer Institute \| ***Graduate Data Science Summer Intern*** \| Jun 2022 - Aug 2022\
+
+<div class="text-center">
+  <p class="download-btn"><a class="btn btn-primary" href="files/O'Hara_ResearchCV2022.pdf" role="button">download cv</a></p>
+</div>
+

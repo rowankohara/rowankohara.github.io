@@ -2,6 +2,8 @@ project:
   type: website
   render:
     - "*.qmd"
+  resources:
+    - "files/"
 
 
   
@@ -40,8 +42,10 @@ website:
   
   twitter-card:
     creator: "@rowankohara"
+    image: img/IMG_0658.jpg
   
-  open-graph: true
+  open-graph:
+    image: img/IMG_0658.jpg
   
   page-footer:
     right: |
