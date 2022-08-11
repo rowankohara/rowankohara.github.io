@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Rowan K. O’Hara",
     "section": "",
-    "text": "I am a first-generation college student passionate about research in biological data science. My research at the POP-GEM Lab focuses on examining cross-ancestry phenotypic and genetic associations with major depression and determine if interpersonal violence exposure is correlated with depression symptoms and if these associations vary by sex. This fall I will be applying to PhD programs in Bioinformatics or Human Genetics to progress my goal of becoming an academic researcher and professor."
+    "text": "I am a first-generation college student passionate about research in biological data science. My research at the POP-GEM Lab focuses on examining cross-ancestry phenotypic and genetic associations with major depression and determining if interpersonal violence exposure is correlated with depression symptoms and if these associations vary by sex. This fall I will be applying to PhD programs in Bioinformatics or Human Genetics to progress toward my goal of becoming an academic researcher and professor."
   },
   {
     "objectID": "index.html#education",
@@ -25,13 +25,13 @@
     "href": "index.html#experience",
     "title": "Rowan K. O’Hara",
     "section": "Experience",
-    "text": "Experience\nPOP-GEM Lab | Research Associate | Aug 2021 - Present\nNational Cancer Institute | Graduate Data Science Summer Intern | Jun 2022 - Aug 2022"
+    "text": "Experience\nPOP-GEM Lab | Research Associate | Aug 2021 - Present\nNational Cancer Institute | Graduate Data Science Summer Intern | Jun 2022 - Aug 2022\n\n\n\ndownload cv"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Women’s Health Research Day\nAPRIL 2022\nVCU’s Women’s Health Research Day is a poster and seminar session that promotes research efforts focusing on women’s health at VCU. My project examined sex differences in the association of interpersonal violence and depression and anxiety symptoms.\n\n\n\nHGEN 612\nSPRING 2022\nHGEN 612 is a data science course offered through the human genetics department at Virginia Commonwealth University, focusing on reproducibility and fundamentals of machine learning.\n\nThis dashboard showcases the data from the Heart Failure Prediction Dataset on Kaggle. Using this data, the classification of heart disease (HeartDisease) is predicted.\n\nThis dashboard showcases the data from the Lake Tahoe Basin Jeffrey pine beetle outbreak from 2003. Using this data, the minimum linear distance to the nearest brood tree (DeadDist) is predicted."
+    "text": "NIH Summer Poster Day\nAUGUST 2022\nNIH Summer Poster Day is a poster session that showcases NIH Summer Internship Program interns’ research projects completed over 2 months. I participated in the Graduate Data Science Summer Program and completed my project at the Laboratory of Translational Genomics in the Division of Cancer Epidemiology and Genetics at the National Cancer Institute. Short-read whole-genome sequencing data has more noise than long-read, which makes it difficult to genotype deletions such as the TERT MNS16A minisatellite. My summer project focused on computationally predicting MNS16A genotype using machine learning.\n\n\n\n\nWomen’s Health Research Day\nAPRIL 2022\nVCU’s Women’s Health Research Day is a poster and seminar session that promotes research efforts focusing on women’s health at VCU. My project examined sex differences in the association of interpersonal violence and depression and anxiety symptoms.\n\n\n\n\nHGEN 612\nSPRING 2022\nHGEN 612 is a data science course offered through the human genetics department at Virginia Commonwealth University, focusing on reproducibility and fundamentals of machine learning.\n\nThis dashboard showcases the data from the Heart Failure Prediction Dataset on Kaggle. Using this data, the classification of heart disease (HeartDisease) is predicted.\n\n\ndashboard\n\n\n\n\nThis dashboard showcases the data from the Lake Tahoe Basin Jeffrey pine beetle outbreak from 2003. Using this data, the minimum linear distance to the nearest brood tree (DeadDist) is predicted.\n\n\ndashboard\n\n\n\n\n\nUndergraduate Research Symposium\nSPRING 2019\nThe VCU Poster Symposium for Undergraduate Research and Creativity is an annual poster session giving an opportunity to undergraduate students to present their research. I presented a poster alongside my Phage Discovery II classmates on A Comparative Study of Bacillus Phage Phireball's Genomics to Other Bacillus Phage Genomes. This project led to a Genbank submission of Bacillus phage Phireball Accession number MN038176.1 that I co-authored by annotating gene products 67-99."
   }
 ]
