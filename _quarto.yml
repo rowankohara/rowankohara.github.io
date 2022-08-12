@@ -21,7 +21,7 @@ website:
       - href: projects.qmd
         text: Projects
         aria-label: Projects
-      - href: https://drive.google.com/file/d/13Vzbk1a0ixpebof9Hd1wbWHKzLHPgPE3/view?usp=sharing
+      - href: files/O'Hara_ResearchCV2022.pdf
         text: CV
         aria-label: curriculum vitae
         
