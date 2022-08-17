@@ -68,7 +68,7 @@ This [dashboard](https://rpubs.com/rowankohara/873978) showcases the data from t
 
 ![](img/internalizing_heatmap.png){width="800"}
 
-"[Internalizing Feelings in College Students](https://osf.io/5ny9s)" is a data report characterizing data collected by Virginia Commonwealth University\'s [Spit for Science project](https://spit4science.vcu.edu/), which studies substance use and mental health in college students. I cleaned, analyzed, and visualized the phenotypic data from the fall first year survey, specifically the depressive and anxiety scores in comparison to sex and race/ethnicity variables.
+"[Internalizing Feelings in College Students](https://osf.io/5ny9s)" is a data report characterizing data collected by Virginia Commonwealth University's [Spit for Science project](https://spit4science.vcu.edu/), which studies substance use and mental health in college students. I cleaned, analyzed, and visualized the phenotypic data from the fall first year survey, specifically the depressive and anxiety scores in comparison to sex and race/ethnicity variables.
 
 ::: text-center
 <p class="button">
