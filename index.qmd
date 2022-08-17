@@ -36,6 +36,6 @@ POP-GEM Lab \| ***Research Associate*** \| Aug 2021 - Present
 National Cancer Institute \| ***Graduate Data Science Summer Intern*** \| Jun 2022 - Aug 2022\
 
 <div class="text-center">
-  <p class="download-btn"><a class="btn btn-primary" href="files/O'Hara_ResearchCV2022.pdf" role="button">download cv</a></p>
+  <p class="download-btn"><a class="btn btn-primary" href="files/O'Hara_CV2022.pdf" role="button" download>download cv</a></p>
 </div>
 
