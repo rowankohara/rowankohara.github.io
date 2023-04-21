@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-A common through thread all of my projects is the application of bioinformatics and data science. I am proficient in R and Python, and I have a basic understanding of Java, Shell Scripting, and MySQL. I am experienced in UNIX and high-performance cluster computing environments, bioinformatics tools/databases, and wet-lab protocols.
+A common through thread all of my projects is the application of bioinformatics and data science. I am proficient in R and Python, and I have a basic understanding of Java, Shell Scripting, and SQL. I am experienced in UNIX and high-performance cluster computing environments, bioinformatics tools/databases, and wet-lab protocols.
 
 <br>
 

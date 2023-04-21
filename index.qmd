@@ -19,17 +19,19 @@ about:
       href: mailto:oharark@vcu.edu
 ---
 
-I am a first-generation college student passionate about research in biological data science. My research at the POP-GEM Lab focuses on examining cross-ancestry phenotypic and genetic associations with major depression and determining if interpersonal violence exposure is correlated with depression symptoms and if these associations vary by sex. This fall I will be applying to PhD programs in Bioinformatics or Human Genetics to progress toward my goal of becoming an academic researcher and professor.
+I am a first-generation college student passionate about research in biological data science. My research at the POP-GEM Lab focuses on examining cross-ancestry phenotypic and genetic associations with major depression and determining if interpersonal violence exposure is correlated with depression symptoms and if these associations vary by sex. This fall, I will be attending University of Maryland Baltimore's Epidemiology and Human Genetics doctoral program to progress toward my goal of becoming an academic researcher and professor.
 
 ## Education
 
-Virginia Commonwealth University \| Richmond, VA <br> ***M.S. in Bioinformatics*** \| Jan 2021 - Present
+Virginia Commonwealth University \| Richmond, VA <br> ***M.S. in Bioinformatics*** \| Jan 2021 - Expected Aug 2023
 
 Virginia Commonwealth University \| Richmond, VA <br> ***B.S. in Bioinformatics*** \| Jul 2018 - May 2022
 
 Virginia Commonwealth University \| Richmond, VA <br> ***B.S. in Psychology*** \| Jul 2018 - May 2022
 
 ## Experience
+
+Virginia Department of Health \| ***Foresight & Analytics Analyst*** \| Oct 2022 - Present\
 
 POP-GEM Lab \| ***Research Associate*** \| Aug 2021 - Present
 

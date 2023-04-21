@@ -9,7 +9,7 @@ project:
   
 website:
   title: "Rowan K. O'Hara"
-  description-meta: "Personal website for Rowan K. O'Hara showcasing her projects and accomplishments in research and data science."
+  description: "Personal website for Rowan K. O'Hara showcasing her projects and accomplishments in research and data science."
   
   favicon: img/dna.png
   
