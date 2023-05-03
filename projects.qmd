@@ -82,7 +82,7 @@ This [dashboard](https://rpubs.com/rowankohara/873978) showcases the data from t
 
 # HGEN 611
 
-**SPRING 2021**
+**FALL 2021**
 
 [HGEN 611](http://bulletin.vcu.edu/azcourses/hgen/) is a data science course offered through the human genetics department at Virginia Commonwealth University, focusing on reproducibility and data visualization.
 
