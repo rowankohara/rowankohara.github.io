@@ -6,6 +6,26 @@ A common through thread all of my projects is the application of bioinformatics 
 
 <br>
 
+# Women's Health Research Day
+
+**APRIL 2023**
+
+[VCU's Women's Health Research Day](https://womenshealth.vcu.edu/research/womens-health-research-day/) is a poster and seminar session that promotes research efforts focusing on women's health at VCU. My project examined sex differences in the association of interpersonal violence and symptoms of depression and alcohol use disorder among college students.
+
+![](img/WHRD2023.jpg){width="800"}
+
+This GitHub repository includes all of my code used to clean the data and create this poster. The PDF of this poster can also be found here.
+
+::: text-center
+<p class="button">
+
+<a class="btn btn-primary" href="https://github.com/rowankohara/WHRD_2023" role="button">github</a>
+
+</p>
+:::
+
+<br>
+
 # NIH Summer Poster Day
 
 **AUGUST 2022**
