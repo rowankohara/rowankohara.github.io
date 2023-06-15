@@ -31,9 +31,9 @@ Virginia Commonwealth University \| Richmond, VA <br> ***B.S. in Psychology*** \
 
 ## Experience
 
-Virginia Department of Health \| ***Foresight & Analytics Analyst*** \| Oct 2022 - Present\
-
 POP-GEM Lab \| ***Research Associate*** \| Aug 2021 - Present
+
+Virginia Department of Health \| ***Foresight & Analytics Analyst*** \| Oct 2022 - Jun 2023\
 
 National Cancer Institute \| ***Graduate Data Science Summer Intern*** \| Jun 2022 - Aug 2022\
 

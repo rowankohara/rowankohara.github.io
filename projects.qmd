@@ -26,6 +26,14 @@ This GitHub repository includes all of my code used to clean the data and create
 
 <br>
 
+**APRIL 2022**
+
+My 2022 project examined sex differences in the association of interpersonal violence and depression and anxiety symptoms.
+
+![](img/WHRD-Ohara_2022.png){width="800"}
+
+<br>
+
 # NIH Summer Poster Day
 
 **AUGUST 2022**
@@ -33,16 +41,6 @@ This GitHub repository includes all of my code used to clean the data and create
 [NIH Summer Poster Day](https://event.fourwaves.com/spd-2022/pages) is a poster session that showcases NIH Summer Internship Program interns' research projects completed over 2 months. I participated in the [Graduate Data Science Summer Program](https://www.training.nih.gov/data_science_summer) and completed my project at the [Laboratory of Translational Genomics](https://dceg.cancer.gov/about/organization/tdrp/ltg) in the Division of Cancer Epidemiology and Genetics at the National Cancer Institute. Short-read whole-genome sequencing data has more noise than long-read, which makes it difficult to genotype deletions such as the *TERT* MNS16A minisatellite. My summer project focused on computationally predicting MNS16A genotype using machine learning.
 
 ![](img/ohara_NIH_poster.png){width="800"}
-
-<br>
-
-# Women's Health Research Day
-
-**APRIL 2022**
-
-[VCU's Women's Health Research Day](https://womenshealth.vcu.edu/research/womens-health-research-day/) is a poster and seminar session that promotes research efforts focusing on women's health at VCU. My project examined sex differences in the association of interpersonal violence and depression and anxiety symptoms.
-
-![](img/WHRD-Ohara_2022.png){width="800"}
 
 <br>
 
